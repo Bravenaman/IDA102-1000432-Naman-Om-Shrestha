@@ -320,3 +320,4 @@ if colB.button("🎀 Bow Tie — 150 XP"):
 
 if colB.button("🎉 Party Hat — 1000 XP"):
     toggle_item(1000, "has_partyhat", "Party Hat")
+
